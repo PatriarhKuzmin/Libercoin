@@ -26,7 +26,7 @@ Libercoin Roadmap
 6. Activation of LiberNodes. <br />
 7. Creating a network of online stores that accept LBR for payment. <br />
 8. Conclusion of contracts with stores around the world. <br />
-9. Creation of your own crypto-currency stock exchange. <br />
+9. Creation of own cryptocurrency stock exchange. <br />
 
 Development process
 ===========================
